@@ -39,6 +39,7 @@ log::fatal(String fmt, ...);
 ```
 
 > **Note**
+> 
 > These functions internally call `io::printf()` with addition of vararg argument.
 
 ```c
@@ -46,6 +47,7 @@ log::trace("Hello %s", "world");
 ```
 
 > **Note**
+> 
 > The following output will be:
 
 ```c
@@ -59,6 +61,7 @@ log::log(LogLevel log, String fmt, ...)
 ```
 
 > **Note**
+> 
 > This function will require a LogLevel to be passed as a parameter.
 > We can create a Log Level by defining it as a variable:
 > ```c
