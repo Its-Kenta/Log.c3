@@ -19,7 +19,7 @@
 
 ## Installation
 
-**log.c3** needs to be dropped into your project and have it's module imported `import log;`
+[**log.c3**](https://github.com/Its-Kenta/logc3/blob/main/src/log.c3) needs to be dropped into your project and have it's module imported `import log;`
 
 ## Dependencies
 
