@@ -8,7 +8,7 @@
 
 </div>
 
-Contributions to log.c3 are more than welcome! I would highly suggest opening up an issue first to discuss the upcoming change.
+Contributions to Log.c3 are more than welcome! I would highly suggest opening up an issue first to discuss the upcoming change.
 
 ## Small guideline
 
