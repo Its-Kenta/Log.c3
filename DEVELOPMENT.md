@@ -18,7 +18,7 @@
 
 ## Summary
 
-**log.c3** is a learning project to learn and understand C3 and the way it works, but also to improve my own knowledge.
+**Log.c3** is a learning project to learn and understand C3 and the way it works, but also to improve my own knowledge.
 
 It's by all means not perfect, but that's the design choice. It was created to be minimalistic and simple to use.
 
