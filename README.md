@@ -1,7 +1,7 @@
 <div align="center">
 <p>
 
-# log.c3 - A simple logging library for the [C3 Programming Language](https://c3-lang.org/)
+# Log.c3 - A simple logging library for the [C3 Programming Language](https://c3-lang.org/)
 
 </p>
 
